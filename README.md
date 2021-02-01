@@ -1,3 +1,5 @@
 # hello-world
-My first hello world git hub project
+My first Hello World git hub project
 edit as part of the branch
+
+Also additional changes...
